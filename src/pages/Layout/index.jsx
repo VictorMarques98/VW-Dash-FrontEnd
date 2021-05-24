@@ -10,6 +10,9 @@ import Dashboard from '../Dashboard';
 import Header from '../../components/Header';
 import LeftMenu from '../../components/LeftMenu';
 
+// Style
+import '../../scss/general.scss';
+
 function Layout () {
 
   return(
