@@ -1,9 +1,14 @@
-import React from 'react';
+import React from 'react'
+import Layout from './pages/Layout'
 
-const App = () => (
-  <div className="App">
-    <h1>Hello</h1>
-  </div>
-);
+function App() {
+  
+    return(
+      <div className="App">
+        <Layout />
+      </div>
+    )
+ 
+}
 
 export default App;
