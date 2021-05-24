@@ -6,7 +6,7 @@ import {
 
 // pages
 
-import Dashboard from './Dashboard/Dashboard';
+import Dashboard from '../Dashboard';
 
 function Layout () {
 
