@@ -5,7 +5,7 @@ function LeftMenu () {
   return(
     <div className="leftMenuWrapper">
       <ul className="leftMenuList">
-        <li className="">
+        <li className="leftMenuItem">
           <LinkMenu path="/dashboard">Dashboard</LinkMenu>
         </li>
       </ul>
